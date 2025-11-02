@@ -82,7 +82,7 @@ API: Open-Meteo (used for both Weather Forecast and Air Quality APIs)
 🚀 How to Run
 Clone the repository:
 Bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPONAME.git
+git clone https://github.com/DankestMukund/ClimateApp.git
 Open the .xcodeproj file in Xcode.
 Build and run on a simulator or a physical device.
 👏 Acknowledgements
