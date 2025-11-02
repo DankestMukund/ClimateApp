@@ -47,7 +47,7 @@ class weathersViewModel {
     var carbonMonoxideMax: Double? = nil
     
     var recommendedQuantity: Int {
-            let co2ConcentrationPPM = self.carbonDioxideMax ?? 400.0 // Default to 400 if nil
+            let co2ConcentrationPPM = self.carbonDioxideMax ?? 0.0
             let roomVolumeM3 = 32.6 // Aprox 12x12x8 ft room
             let co2DensityG_Per_M3 = 1980.0 // Density of CO2
             

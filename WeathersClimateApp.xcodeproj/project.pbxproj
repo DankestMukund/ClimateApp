@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		106BA2F12EB7B37E002CE1CF /* readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 106BA2F02EB7B373002CE1CF /* readme.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		106BA29E2EB5EB54002CE1CF /* WeathersClimateApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeathersClimateApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		106BA2F02EB7B373002CE1CF /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +37,7 @@
 		106BA2952EB5EB54002CE1CF = {
 			isa = PBXGroup;
 			children = (
+				106BA2F02EB7B373002CE1CF /* readme.md */,
 				106BA2A02EB5EB54002CE1CF /* WeathersClimateApp */,
 				106BA29F2EB5EB54002CE1CF /* Products */,
 			);
@@ -109,6 +115,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				106BA2F12EB7B37E002CE1CF /* readme.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
