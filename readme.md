@@ -4,7 +4,7 @@ ClimateGuard is a comprehensive iOS application built with SwiftUI for an Enviro
 The app provides real-time weather and air quality data, with a special focus on monitoring live CO₂ levels. It then uses this live data to power a dynamic calculator that shows the user exactly how many common indoor plants are needed to offset the carbon in a standard room, fulfilling key EVS objectives.
 
 Live Weather & AQI    Interactive Date Picker    Dynamic Plant Calculator
-<img src="assets/IMG_0353.jpg" width="250">    <img src="assets/IMG_0355.jpg" width="250">    <img src="assets/IMG_0354.jpg" width="250">
+<img src="assets/IMG_0353.jpeg" width="250">    <img src="assets/IMG_0355.jpeg" width="250">    <img src="assets/IMG_0354.jpeg" width="250">
 [!NOTE] This is a complete EVS project that successfully fulfills all required objectives, from app development and GHG monitoring to carbon sequestration and O₂ emission calculation.
 
 🎯 EVS Project Objectives Fulfilled
@@ -70,7 +70,7 @@ This calculation runs instantly every time the date or the selected plant is cha
 
 📱 App Gallery
 Thunderstorm (Nov 1)    Cloudy (Nov 2)    Future Forecast (Nov 6)
-<img src="assets/IMG_0357.jpg" width="250">    <img src="assets/IMG_0353.jpg" width="250">    <img src="assets/IMG_0356.jpg" width="250">
+<img src="assets/IMG_0357.jpeg" width="250">    <img src="assets/IMG_0353.jpeg" width="250">    <img src="assets/IMG_0356.jpeg" width="250">
 🛠️ Tech Stack & Architecture
 Framework: SwiftUI
 State Management: @Observable (Swift's modern observation framework)
